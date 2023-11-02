@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 30" width="29" height="30">
+	<title>desktop_searchbox_sprites318_hr</title>
+	<defs>
+		<image  width="29" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAeCAMAAADn2eWTAAAAAXNSR0IB2cksfwAAAEJQTFRFTIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv1TIv10hblJAAAABZ0Uk5TABB/v+//z69gj98wIHCQn4BAH7CgUDaPDyYAAADXSURBVHicxZPRGoMgCIVxSJqZ1lbv/6pDnYW2djuuPPyEHvgCyKEeqIkGY+EaaqQa7sInRyKMaqDXKYmztSGXDRL7lEJfhE1iFDSyXtra9ZTpqu4ePNTM1MtnLJx4VoFEr9Ye07kKLc4lBqJQz1zZDWAjivcUBXWiz7XzJg1kS9xtr8I27qFM55il4kc7YXgncW0Zx4l3LtZyOiavNWem1Lb1r4a8VzTms2eM8mMVxPL1jO1DAFasLPjkscPgbYgx2GQlr7jDsvLv+I5m/O2/OfAPyCMEeAPAsgkBAbLpzAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

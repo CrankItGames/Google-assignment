@@ -1,0 +1,100 @@
+﻿#logo {
+    margin:20px;
+    height: 25px;
+}
+
+.hRlink {
+    color: black;
+    position: absolute;
+    right: 120px;
+    top: 20px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+footer {
+    height: 50px;
+    border-top: 1px solid dimgray;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 12px;
+    background-color: #f2f2f2;
+}
+
+.fLlink {
+    color: black;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+#button:hover {
+    background-color: #357ae8;
+    background-image:-webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#357ae8));
+    border: 1px solid #dadce0;
+    color: white;
+}
+
+#button {
+    border-radius: 3px;
+    background-color: #4C8BF5;
+    width: 130px;
+    height: 37px;
+    border: 1px solid #2F5596;
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+}
+
+#textbox {
+    position: absolute;
+    left: 12%;
+    border: 1px solid dimgrey;
+}
+
+/*#textbox:hover {
+    height: 47px;
+    width: 570px;
+    box-shadow: 2px 2px 4px dimgrey;
+    padding-right: 20px;
+}*/
+
+span {
+    font-family: Courier New, Courier, monospace
+}
+
+.etextLabel {
+    margin-bottom: 17px;
+    font-size: 11px;
+}
+
+.stextLabel {
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+#startText {
+    position:absolute;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#endText {
+    position:absolute;
+    margin-left: 835px;
+    margin-top:50px;
+    font-size: 12px;
+}
+
+#stextTitle {
+    font-size: 18px;
+    margin-bottom: 23px;
+}
+
+#butPos {
+    position:absolute;
+    left: 35%;
+    top: 50%;
+}
